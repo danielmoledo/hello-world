@@ -1,13 +1,5 @@
 # Test GO
 
-````
-The goal of this mini project is to build a micro-service in GoLang.
-Basically, you should create a new project, using Go as a code language, with a service called hello-world. This endpoint should trigger the process to store in a database (whatever you want) the log of each access (ID, request timestamp). So, for each request to that service, there will be an entry in the database.
-You can use whatever additional technology you want to use:
-Services (Echo, Gin, Mux, …)
-Database (Gorm, …)
-````
-
 Para arrancar la aplicación:
 ````
 $ go run main.go
