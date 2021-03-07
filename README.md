@@ -15,7 +15,7 @@ $ go run main.go
 
 Para probar el endpoint:
 ````
-$ curl -X POST http://localhost:8080
+$ curl -X POST http://localhost:8080/hello-world
 ````
 
 ### Estructura de paquetes
