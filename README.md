@@ -1,4 +1,4 @@
-# Gataca Test
+# Test GO
 
 ````
 The goal of this mini project is to build a micro-service in GoLang.
